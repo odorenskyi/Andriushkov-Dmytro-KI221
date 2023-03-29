@@ -1,6 +1,5 @@
 #ifndef modulesAndriushkov_H
 #define modulesAndriushkov_H
-#include <math.h>
 
 using namespace std;
 
